@@ -1,1 +1,2 @@
-Link: https://docs.google.com/document/d/1qD9SI0u1KQDiNQ9oUxmSegfO6sU75TmRqgJ23ZzoBu0/edit?usp=sharing
+Implementing OPA Gatekeeper library in kubernetes cluster for strengthening compliance efforts and preventing malicious attacks.
+tech stack: Kubernetes, API server, Admission Controller, constraints templates, policies.
